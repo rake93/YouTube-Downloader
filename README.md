@@ -17,7 +17,11 @@ Features:
   5)  Selectable video resolution to download
   
   6)  No need to install (you are not forced to download a suspicious exe-file)
+  
   7)  No hidden features - it's open source and freeware
+  
   8)  Does not read/write on your computer (except for the video files)
+  
   9)  Uses video title as file name
+  
  10)  User-selectable download directory and video format.
